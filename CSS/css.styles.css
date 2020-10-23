@@ -1,6 +1,8 @@
 body {
   background-color: #effad3;
   margin: 0;
+  text-align: center;
+  font-family: 'Courier New", Courier, monospace'
 }
 
 h1 {
@@ -9,34 +11,49 @@ h1 {
 
 .top-container {
   background-color: #28abb9;
+  padding-top: 50px;
 }
-
-
-/* test */
 
 .middle-container {
   background-color: #2d6187;
   width: 200px;
-  height: 200px;
+  height: 100px;
   display: inline-block;
-  /* position: relative; */
-  /* right: 100px; */
 }
 
 .centre-container {
   background-color: #28abb9;
   width: 200px;
-  height: 200px;
+  height: 100px;
   display: inline-block;
 }
 
 .bottom-container {
   background-color: #a8dda8;
   width: 200px;
-  height: 200px;
+  height: 100px;
   display: inline-block;
-  /* position: relative; */
-  /* top: 50;
-  right: 100px; */
-  /* right: 100px; */
+}
+
+
+/*top ot right most cloud is called sky*/
+
+.sky {
+  position: absolute;
+  right: 150px;
+  top: 450px;
+}
+
+
+/* */
+
+.cloud {
+  position: relative;
+}
+
+.low {
+  position: absolute;
+  left: 100px;
+  bottom: 400px;
+  top: 350px;
 }
