@@ -6,13 +6,22 @@ body {
 }
 
 h1 {
+  color: #66bfbf;
   margin-top: 0;
   font-size: 4rem;
+  ;
 }
 
 h2 {
+  color: #66bfbf;
   margin-top: o;
   font-size: 2rem;
+}
+
+h3 {
+  color: #66bfbf;
+  margin-top: o;
+  font-size: 1.5rem;
 }
 
 .top-container {
