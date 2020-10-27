@@ -7,6 +7,12 @@ body {
 
 h1 {
   margin-top: 0;
+  font-size: 4rem;
+}
+
+h2 {
+  margin-top: o;
+  font-size: 2rem;
 }
 
 .top-container {
@@ -16,6 +22,13 @@ h1 {
 
 .middle-container {
   background-color: #2d6187;
+  /*width: 200px;
+  height: 100px;
+  display: inline-block;*/
+}
+
+.photo-container {
+  background-color: #effad3;
   /*width: 200px;
   height: 100px;
   display: inline-block;*/
