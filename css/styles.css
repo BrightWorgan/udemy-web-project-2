@@ -9,13 +9,14 @@ h1 {
   color: #66bfbf;
   margin-top: 0;
   font-size: 4rem;
-  ;
+  /*line-height: 2;*/
 }
 
 h2 {
   color: #66bfbf;
   margin-top: o;
   font-size: 2rem;
+  font-weight: normal;
 }
 
 h3 {
